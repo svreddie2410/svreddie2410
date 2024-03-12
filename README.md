@@ -15,14 +15,16 @@
 </h1>
 <div align="left"> 
   
-  ### 👨‍💻 About Me:
-I am Python developer living the United States.
+  ### About Me:
+👨‍💻 Python developer| 🌐 Web Application Developer|  📊 Data Science Enthusiast
 
-💻 I am Currently contributing my skills to a Big tech company on a Web application development project.
+🔧 Crafting elegant solutions with Python to tackle complex problems.
 
-🛰️ I love to explore new Technical content.
+📚 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-🏏 I watch/play Cricket during my free time.
+🌟 Passionate about contributing to open source projects and collaborating with developers worldwide.
+
+🏆 Let's build something amazing together! Feel free to reach out for collaboration or just to chat.
 
 📧: svreddie@gmail.com
 </div>
